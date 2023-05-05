@@ -1,0 +1,17 @@
+.contactsItem {
+  color: white;
+  font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.contactsItem span {
+  width: 170px;
+    padding: 5px;
+}
+
+.contactsList {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}

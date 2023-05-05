@@ -1,0 +1,26 @@
+.formContainer {
+    
+    margin: auto;
+    margin-top: 50px;
+    width: 400px;
+    min-height: 600px;
+    padding: 40px;
+
+    background-color: #6275f0;
+
+    border-radius: 10px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .3),
+            -23px 0 20px -23px rgba(0, 0, 0, .6),
+            23px 0 20px -23px rgba(0, 0, 0, .6),
+            inset 0 0 40px rgba(0, 0, 0, .1);
+}
+
+.title {
+    margin-bottom: 20px;
+    font-weight: 600;
+    cursor: default;
+ 
+    color: #e0eff2;
+    font: italic bold 40px Georgia, Serif;
+    text-shadow: -4px 3px 0 #3a50d9;
+}
